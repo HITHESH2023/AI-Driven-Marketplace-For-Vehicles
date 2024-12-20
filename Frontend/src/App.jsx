@@ -3,7 +3,7 @@ import Home from "./pages/Home.jsx"
 import Details from "./pages/Details.jsx"
 import Login from "./pages/Login.jsx";
 import Register from "./pages/Register.jsx";
-import Contact from "./pages/contact.jsx";
+import Contact from "./pages/Contact.jsx";
 import Help from "./pages/Help.jsx";
 import Sort from "./pages/Sort.jsx";
 import CarsPage from "./pages/CarsPage.jsx";
